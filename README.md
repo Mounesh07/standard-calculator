@@ -272,8 +272,9 @@ body {
 ```
 
 ## OUTPUT:
-
-
+![output](/output.png)
+![output](/output2.png)
+![output](/output3.png)
 ## Result:
 
 The program for designing a simple calculator using JavaScript is executed successfully.
